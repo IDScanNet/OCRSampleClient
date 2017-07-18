@@ -15,7 +15,7 @@
 ## Response Information
 |Name|Description|Type|Additional information|
 |-----|-------|-----|-----------|
-|ImageInfoItems||Collection of RecognizeResponse||
+|RecognizeResponseItems||Collection of RecognizeResponse||
 
 ## RecognizeResponse
 |Name|Description|Type|Additional information|
