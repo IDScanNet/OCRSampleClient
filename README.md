@@ -60,6 +60,7 @@
 |Name|Description|Type|Additional information|
 |-----|-------|-----|-----------|
 |Value||string||
+|ValueMRZ||string||
 |Confidence||int||
 
 ## Raw Response Example
