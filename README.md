@@ -1,4 +1,4 @@
-# POST http://app.idware.net:5050/api/ocr/ReadDocument
+# POST http://app.idware.net:5050/api/ocr/recognize
 ## Request Information
 
 ### Request Headers
