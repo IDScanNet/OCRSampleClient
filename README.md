@@ -7,10 +7,12 @@
 |Authorization||ApiKey XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX|Required|
 
 
-### Request Content
+### Request Content (multipart/form-data)
 |Name|Description|Type|Additional information|
 |-----|-------|-----|-----------|
-|||Multipart Form Data|Collection of image/jpeg|
+|||File|Collection of image/jpeg|
+|ReturnSignatureImage|field|bool|
+|ReturnPhotoImage|field|bool|
 
 ## Response Information
 |Name|Description|Type|Additional information|
