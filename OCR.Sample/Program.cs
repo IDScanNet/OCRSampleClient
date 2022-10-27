@@ -48,8 +48,7 @@ namespace OCR.SampleClient
                 Stopwatch sw = new Stopwatch();
                 sw.Start();
                 var result = await RecognizeImageAsync(
-                    "1.jpg"
-                   ,"2.jpg"
+                    "drivers-license-front.jpg"
                 );
                 sw.Stop();
                 Console.WriteLine("Result: " + result);
